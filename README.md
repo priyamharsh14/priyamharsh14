@@ -16,7 +16,7 @@
 <a href="https://github.com/priyamharsh14/SniffnDetect">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyamharsh14&repo=SniffnDetect&theme=dark" />
 </a>
-<br><br>
+<br>
 <a href="https://github.com/priyamharsh14/Prawler">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyamharsh14&repo=Prawler&theme=dark" />
 </a>
