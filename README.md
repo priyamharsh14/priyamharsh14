@@ -1,8 +1,8 @@
 ## Hello, I'm Priyam Harsh 👋
-<a href="https://twitter.com/PriyamHarsh14">
+<a href="https://twitter.com/PriyamHarsh14" target="_blank">
   <img align="left" alt="Priyam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/priyamharsh14">
+<a href="https://linkedin.com/in/priyamharsh14" target="_blank">
   <img align="left" alt="Priyam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/priyamharsh14">
