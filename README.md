@@ -5,7 +5,7 @@
 ## I'm a Student, Developer, and Thinker !!
 
 - 🔭 I'm kinda pushing repo, couple of sites and apps made !
-- 🌱 I'm currently learning Game Dev 🤣
+- 🌱 I'm currently learning Game Dev 🔥
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
