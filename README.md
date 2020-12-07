@@ -5,7 +5,6 @@
 ## I'm a Student, Developer, and Thinker !!
 
 - 🔭 I'm currently working on couple of websites and an android app !
-- 🌱 I'm currently learning 3D modelling 🔥
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
