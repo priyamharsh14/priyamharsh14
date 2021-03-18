@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/priyamharsh14?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpriyamharsh14&screen_name=priyamharsh14)
 
-## I'm a Student, Developer, and Thinker !!
+## I'm a Student and a Developer !!
 
-- 🔭 I'm currently working on couple of websites and an android app !
+- 🔭 I'm currently working on couple of websites and an android app
 - 👯 I'm looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
