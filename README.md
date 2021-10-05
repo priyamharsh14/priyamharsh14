@@ -1,12 +1,10 @@
 ### Hello there, I'm Priyam Harsh 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/priyamharsh14?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpriyamharsh14&screen_name=priyamharsh14)
+## I'm a developer !!
 
-## I'm a Student and a Developer !!
-
-- 🔭 I'm currently working on couple of websites and an android app
-- 👯 I'm looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I'm currently working @ Travvir
+- 👯 I'm looking forward to collaborate with other developers
+- 🥅 2021 Goals: Learn new technologies and frameworks
 
 ### Connect with me:
 
@@ -18,7 +16,3 @@
 ### Github Stats:
 
 <img align="left" alt="priyamharsh14's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=priyamharsh14&show_icons=true&theme=dark" />
-
-[twitter]: https://twitter.com/PriyamHarsh14
-[github]: https://github.com/priyamharsh14
-[linkedin]: https://www.linkedin.com/in/priyamharsh14/
