@@ -16,3 +16,7 @@
 ### Github Stats:
 
 <img align="left" alt="priyamharsh14's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=priyamharsh14&show_icons=true&theme=dark" />
+
+[twitter]: https://twitter.com/PriyamHarsh14
+[github]: https://github.com/priyamharsh14
+[linkedin]: https://www.linkedin.com/in/priyamharsh14/
