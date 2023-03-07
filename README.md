@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working @ Travvir
 - 👯 I'm looking forward to collaborate with other developers
-- 🥅 2022 Goals: Learn new technologies and frameworks
+- 🥅 2023 Goals: Learn new technologies and frameworks
 
 ### Connect with me:
 
